@@ -20,3 +20,5 @@ fclose(fp);
 ```
 
 See the file [example.m](example.m) for a full example
+
+[![View makesvg on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/121458-makesvg)
