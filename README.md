@@ -19,4 +19,4 @@ endsvg(fp);
 fclose(fp);
 ```
 
-See the file [example.m](https://pages.github.com/)[https://github.com/JasonFriedman/makesvg/blob/main/example.m] for a full example
+See the file [example.m](example.m) for a full example
