@@ -8,7 +8,7 @@ It was written to create precise stimuli for running psychophysics / motor contr
 Usage example:
 ```
 % Open a text file for writing
-fp = fopen(‘basis.svg,’w’);
+fp = fopen('basis.svg','w');
 % start the svg with a width of 400 and height of 300
 startsvg(fp,400,300);
 % draw a circle with a red line, filled with blue
@@ -19,5 +19,4 @@ endsvg(fp);
 fclose(fp);
 ```
 
-See the file example.m for a full example
-
+See the file [example.m](https://pages.github.com/)[https://github.com/JasonFriedman/makesvg/blob/main/example.m] for a full example
