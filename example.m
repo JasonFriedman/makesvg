@@ -35,5 +35,7 @@ drawWrappedText(fp,100,20,250,200,'This is a large amount of text that cannot fi
 
 endsvg(fp);
 
+fclose(fp);
+
 % The next line requires imagemagick to be installed
 % ! /usr/local/bin/convert ugly.svg ugly.jpg
